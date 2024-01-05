@@ -1,2 +1,2 @@
-# analise-critica-scrum
-Desafio da DIO. Análise crítica textual de um case real em que foi utilizado o framework SCRUM.
+# Análise Crítica sobre aplicação do SCRUM - Case de sucesso da xxxx
+Desafio de projeto DIO.
