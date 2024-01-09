@@ -2,7 +2,7 @@
 
 Introdução:
 
-A empresa em questão, H&R Block, uma empresa americana de preparação de impostos que opera no Canadá, Estados Unidos e Austrália, enfrentava desafios significativos em questão de processamento de demandas. Diante desse contexto, a decisão de adotar o framework Scrum como metodologia de gestão de projetos foi tomada visando à melhoria da flexibilidade e eficiência. Para isso, eles contrataram uma empresa chamada Braintrust. 
+A empresa em questão, H&R Block, uma empresa americana de preparação de impostos, enfrentava desafios significativos em questão de processamento de demandas. Diante desse contexto, a decisão de adotar o framework Scrum como metodologia de gestão de projetos foi tomada visando à melhoria da flexibilidade e eficiência. Para isso, eles contrataram uma empresa chamada Braintrust. 
 
 Descrição do contexto inicial:
 
